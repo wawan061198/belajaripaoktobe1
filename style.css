@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  margin: 2rem;
+  background-color: #f0f8ff;
+}
+h1 {
+  color: #006699;
+}
+button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+}
